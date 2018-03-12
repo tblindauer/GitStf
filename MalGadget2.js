@@ -4,5 +4,4 @@
 
 
 alert("Yay?2");
-alert(Yay?);
 onload(alert("Yay?2"));
